@@ -17,4 +17,4 @@ A curated library of prompt templates built to support cybersecurity workflows u
 
 **Maximillian Mensah**  
 Prompt Engineer & Cybersecurity Analyst  
-[LinkedIn](https://www.linkedin.com/in/maximillymens) • [GitHub](https://github.com/maximillymens)
+[LinkedIn](https://www.linkedin.com/in/maximillian-mensah-75241b232/) • [GitHub](https://github.com/maximillymens)
