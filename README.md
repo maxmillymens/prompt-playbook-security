@@ -6,7 +6,12 @@ A curated library of prompt templates built to support cybersecurity workflows u
 
 ## 📁 Structure
 
----
+## 🎯 Current Templates
+
+- ✅ Incident Response Plans (NIST-compliant, role-specific)
+- ✅ Phishing Simulation Design (awareness & SOC testing)
+- ✅ Risk Report Generator (structured reports for security leadership)
+
 
 ## 🔐 About the Author
 
