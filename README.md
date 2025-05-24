@@ -6,3 +6,10 @@ A curated library of prompt templates built to support cybersecurity workflows u
 
 ## 📁 Structure
 
+---
+
+## 🔐 About the Author
+
+**Maximillian Mensah**  
+Prompt Engineer & Cybersecurity Analyst  
+[LinkedIn](https://www.linkedin.com/in/maximillymens) • [GitHub](https://github.com/maximillymens)
